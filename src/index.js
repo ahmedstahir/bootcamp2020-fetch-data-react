@@ -20,7 +20,7 @@ function Reddit() {
             <h1>/r/reactjs</h1>
             <ul>
                 {posts.map(post => (
-                    <li key={post.id}><a href={post.url} target="_blank"> {post.title} (by {post.author})</a></li>
+                    <li key={post.id}><a href={post.url} target="_blank" rel="noopener noreferrer"> {post.title} (by {post.author})</a></li>
                 ))}
             </ul>
         </div>
