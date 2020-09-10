@@ -8,4 +8,4 @@ Axios is being used in this project to demonstrate fetching data from a *reddit*
 
 <hr/>
 
-Repository created as part of [Bootcamp 2020](https://github.com/panacloud/bootcamp-2020) online sessions
+###### Repository created as part of [Bootcamp 2020](https://github.com/panacloud/bootcamp-2020) online sessions
